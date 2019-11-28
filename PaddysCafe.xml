@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?xml-stylesheet type="text/xsl" href="PaddysCafe.xsl"?>
 <tvshow>
-    <shown genre="Sci-fi Comedy">
+    <show genre="Sci-fi Comedy">
         <name>Rick and Morty</name>
         <release>2016</release>
 		<end_date>present</end_date>
@@ -9,7 +9,7 @@
         <poster href="https://images-na.ssl-images-amazon.com/images/I/91yFn6BYOTL._RI_.jpg" width="20" height="10" />
 		<viewers units="millions">7.82</viewers>
         </show>
-     <shown genre="Thriller">
+     <show genre="Thriller">
         <name>Supernatural</name>
         <release>2016</release>
 		<end_date>present</end_date>
@@ -17,7 +17,7 @@
         <poster href="https://images-na.ssl-images-amazon.com/images/I/91yFn6BYOTL._RI_.jpg" width="20" height="10" />
 		<viewers units="millions">7.82</viewers>
         </show>
-    <shown genre="Drama">
+    <show genre="Drama">
         <name>Game of Thrones</name>
         <release>2016</release>
 		<end_date>present</end_date>
