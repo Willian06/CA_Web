@@ -4,25 +4,25 @@
     <show genre="Sci-fi Comedy">
         <name>Rick and Morty</name>
         <release>2016</release>
-		<end_date>present</end_date>
-		<country>USA</country>
+	<end_date>present</end_date>
+	<country>USA</country>
         <poster href="https://images-na.ssl-images-amazon.com/images/I/91yFn6BYOTL._RI_.jpg" width="20" height="10" />
-		<viewers units="millions">7.82</viewers>
-        </show>
+	<viewers units="millions">7.82</viewers>
+     </show>
      <show genre="Thriller">
         <name>Supernatural</name>
         <release>2016</release>
-		<end_date>present</end_date>
-		<country>USA</country>
+	<end_date>present</end_date>
+	<country>USA</country>
         <poster href="https://images-na.ssl-images-amazon.com/images/I/91yFn6BYOTL._RI_.jpg" width="20" height="10" />
-		<viewers units="millions">7.82</viewers>
-        </show>
+	<viewers units="millions">7.82</viewers>
+    </show>
     <show genre="Drama">
         <name>Game of Thrones</name>
         <release>2016</release>
-		<end_date>present</end_date>
-		<country>UK</country>
-        <poster href="https://images-na.ssl-images-amazon.com/images/I/91yFn6BYOTL._RI_.jpg" width="20" height="10" />
-		<viewers units="millions">7.82</viewers>
-        </show>
-   </tvshow>
+	<end_date>present</end_date>
+	<country>UK</country>
+       	<poster href="https://images-na.ssl-images-amazon.com/images/I/91yFn6BYOTL._RI_.jpg" width="20" height="10" />
+	<viewers units="millions">7.82</viewers>
+    </show>
+</tvshow>
